@@ -2,14 +2,7 @@
 
 A multitude of machine learning algorithms can be applied using this code.
 
-
-Importing these `metrics` will help asses the models performance at base level for the chose dataset.
-
-```Python
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, roc_auc_score 
-```
-
-It is important to import these modules before implementing the models
+Importing `metrics` will help asses the models performance at base level for the chose dataset:
 
 ```Python
 from sklearn.linear_model import LogisticRegression
@@ -19,6 +12,7 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.svm import SVC
 
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, roc_auc_score 
 
 models={
     "Logistic Regression": LogisticRegression(),
