@@ -1,13 +1,18 @@
 # Applying function to limit number of unique categories in variable
 
+```Python
 from collections import Counter
 def cumulatively_categorise(column, threshold=0.75, return_categories_list=True):
+
   #Find the threshold value using the percentage and number of instances in the column
   threshold_value=int(threshold*len(column))
+
   #Initialise an empty list for our new minimised categories
   categories_list=[]
+
   #Initialise a variable to calculate the sum of frequencies
   s=0
+  
   #Create a counter dictionary of the form unique_value: frequency
   counts=Counter(column)
 
@@ -40,3 +45,4 @@ transformed_column, new_category_list = cumulatively_categorise(df.RecruitmentCo
 print(transformed_column.describe())
 print()
 print(transformed_column.value_counts())
+```
