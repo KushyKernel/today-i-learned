@@ -61,10 +61,6 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ---
 
-## Azure
-
-- [Change refresh time on releases](/azure/change-refresh-time-on-releases.md)
-
 ## Command Prompt
 
 - [Change directory to another drive](/command-prompt/cd-to-other-drive.md)
@@ -76,14 +72,6 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Uninstall all Python packages](/command-prompt/uninstall-all-python-packages.md)
 
 ## Data Definitions
-
-## Data Engineering
-
-- [What are DAGs](/data-engineering/dag.md)
-- [What is Hadoop HDFS](/data-engineering/hadoop-hdfs.md)
-- [What is Hive?](/data-engineering/hive.md)
-- [REST API](/data-engineering/rest-api.md)
-- [Types of databases](/data-engineering/types-of-databases.md)
 
 ## Databricks
 
@@ -101,18 +89,6 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [Subtract previous value](/DAX/subtract-previous-value.md)
 - [Test multiple conditions](/DAX/test-multiple-conditions.md)
 - [Using Calculate with multiple conditions](/DAX/using_calculate_multiple_conditions.md)
-
-## Exam Questions
-
-- [Group dictionary valyes by keys](/exam-questions/group-dictionary-values-by-key.md)
-- [Unpack nested lists to a dictionary](/exam-questions/unpack-nested-lists-to-a-dictionary.md)
-
-## Example Datasets
-
-Check out the [README](/example-datasets/dataset_readme.md) file for more information on each dataset.
-
-- [Country Data](/example-datasets/country-data.csv)
-- [Frankfurt Weather](/example-datasets/frankfurt-weather.csv)
 
 ## Excel
 
@@ -156,11 +132,6 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Get runner up scores](/hackerrank/get-runner-up-score.md)
 - [Joining strings and create a new string](/hackerrank/joining-strings.md)
 - [Print numbers inbetween 1 and n on the same line with no spaces](/hackerrank/print_numbers_inbetween.md)
-
-## iPython
-
-- [Clear and exit iPython](/Ipython/clear_and_exit_ipython.md)
-- [Saving, running and loading files in iPython](/Ipython/save_files_ipython.md)
 
 ## Linux
 
@@ -390,13 +361,6 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Find UK phone numbers](/regex-expressions/find-uk-numbers.md)
 - [Remove HESA CAH Codes](/regex-expressions/remove-hesa-cah-codes.md)
 
-## Scripts
-
-- [Copy directories](/scripts/copy-directories.md)
-- [Download files](/scripts/download_files.md)
-- [Extract the Times Higher Education Ranking Tables](/scripts/extract-times-higher-education-tables.md)
-- [Prevent Windows from sleeping](/scripts/prevent_windows_from_sleeping.md)
-
 ## Spark
 
 - [Add a column to a DataFrame](/Spark/add_column_to_dataframe.md)
@@ -442,10 +406,6 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Days between dates](/useful-custom-python-functions/days_between.md)
 - [Lookup a value in a dictionary](/useful-custom-python-functions/lookup_value_in_dictionary.md)
 - [Round to nearest multiple](/useful-custom-python-functions/round_to_nearest_multiple.md)
-
-## VBA
-
-- [Split a sheet to multiple sheets (tabs)](VBA/split_sheet_to_multiple.md)
 
 ## Wiki
 
