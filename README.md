@@ -7,15 +7,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## Tracking
 
 - [x] 50 TILs - :calendar: 28/03/2022
-- [x] 75 TILs - :calendar: 13/04/2022
 - [x] 100 TILs - :calendar: 08/05/2022
-- [x] 125 TILs - :calendar: 30/05/2022
 - [x] 150 TILs - :calendar: 30/06/2022
-- [x] 175 TILs - :calendar: 11/08/2022
 - [x] 200 TILs - :calendar: 26/09/2022
-- [x] 225 TILs - :calendar: 18/10/2022
 - [x] 250 TILs - :calendar: 12/12/2022
-- [x] 275 TILs - :calendar: 09/03/2023
 - [x] 300 TILs - :calendar: 03/07/2023
 - [ ] 350 TILS
 - [ ] 400 TILS
@@ -389,21 +384,6 @@ Check out the [README](/example-datasets/dataset_readme.md) file for more inform
 - [Using zip](/Python/using_zip.md)
 - [Using map](/Python/using-map.md)
 - [Write, read and append files](Python/write_and_read_files.md)
-
-## Raspberry Pi
-
-- [Adding an alias to bash](/raspberry-pi/adding_alias_to_bash.md)
-- [Change DNS servers](/raspberry-pi/change-dns-servers.md)
-- [Check available space](/raspberry-pi/check_available_space.md)
-- [Delete files and directories](/raspberry-pi/delete-files-and-dirs.md)
-- [Find a file](/raspberry-pi/find-a-file.md)
-- [Get files via SCP](/raspberry-pi/get-files-via-scp.md)
-- [Make directories](/raspberry-pi/make-directories.md)
-- [Measure CPU temperature](/raspberry-pi/measure-cpu-temp.md)
-- [Performing updates from the command line](/raspberry-pi/performing_updates.md)
-- [Reset SSH keygen](/raspberry-pi/reset-keygen.md)
-- [Update Pi-hole](/raspberry-pi/update_pihole.md)
-- [Using tmux](/raspberry-pi/using-tmux.md)
 
 ## Regex Expressions
 
