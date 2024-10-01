@@ -18,10 +18,10 @@ This is a collection of comprehensive but small write ups of things I learn each
 ## :raised_hands: Favourites
 
 - [Python](/Python)
-- [SQL]
-- [DataBricks]
-- [Spark]
-- [DAX]
+- [SQL](/SQL)
+- [DataBricks](/DataBricks)
+- [Spark](/Spark)
+- [DAX](/DAX)
 
 ---
 
