@@ -6,58 +6,22 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Tracking
 
-- [x] 50 TILs - :calendar: 28/03/2022
-- [x] 100 TILs - :calendar: 08/05/2022
-- [x] 150 TILs - :calendar: 30/06/2022
-- [x] 200 TILs - :calendar: 26/09/2022
-- [x] 250 TILs - :calendar: 12/12/2022
-- [x] 300 TILs - :calendar: 03/07/2023
+- [ ] 50 TILs
+- [ ] 100 TILs
+- [ ] 150 TILs
+- [ ] 200 TILs
+- [ ] 250 TILs
+- [ ] 300 TILs
 - [ ] 350 TILS
 - [ ] 400 TILS
 
 ## :raised_hands: Favourites
 
-- [Read data from an Azure blog storage (data lake)](/Python/read-from-azure-blob.md)
-- [Add columns to temporary dataframe views](/Pandas/add-columns-to-temporary-views.md)
-- [Copy files from DBFS using the Databricks CLI](/Databricks/copy-files-from-dbfs-using-cli.md)
-- [Convert a DataFrame to a nested dictionary](/Pandas/convert-dataframe-to-nested-dictionary.md)
-- [Check if value exists in another dataframe](/Pandas/check-if-value-exists-in-another-dataframe.md)
-- [Create dual axis charts](/Plotting/create-dual-axis-charts.md)
-- [Create dynamic bat scripts](/command-prompt/create-dynamic-bat-scripts.md)
-- [Create a mean row or column](/Pandas/create_mean_row_or_column.md)
-- [Create top N and others pivot tables](/Pandas/create-top-n-and-others-pivot.md)
-- [Create a week commencing column](/Pandas/create_a_week_commencing_column.md)
-- [Custom sort a list](Python/custom-sort-a-list.md)
-- [Dynamically reference user root](/Python/dynamically-reference-user-root.md)
-- [Fill NaN values in DataFrames](/Pandas/fill-nan-values-in-dataframes.md)
-- [Find the closest matching higher value](/Python/find-closest-match.md)
-- [Join multiple dataframes](/Python/join-multiple-dataframes.md)
-- [Key Spark operations](/Spark/key-spark-operations.md) :star:
-- [Lookup a value in a dictionary, like a VLOOKUP or INDEX MATCH function](/Python/lookup-value-in-a-dictionary.md)
-- [List files in a directory](/Python/list-files-in-directory.md)
-- [Merge dataframes](/Pandas/merge_dataframes.md)
-- [Merge dataframes with only unique columns](/Pandas/merge-dataframes-with-only-unique-columns.md)
-- [Merge dataframes and update values](/Pandas/merge_dataframes_update_values.md)
-- [Perform calculations on multilevel index pivot tables](/Pandas/perform_calculations_on_multilevel_pivot_tables.md)
-- [Perform calculations on specific rows](/Pandas/perform_calculations_using_rows.md)
-- [Pull tables from websites into Dataframes](Pandas/pull-tables-from-webpages.md) :star:
-- [Read html into dataframes](/Pandas/read-html-into-dataframe.md)
-- [Remove text after character](Python/remove_text_after_character.md)
-- [Remove text from number strings](/Pandas/remove-text-from-number-strings.md)
-- [Select distinct on one column](/SQL/select-distinct-on-one-column.md)
-- [Sorting zipped lists](/Python/sort-zipped-lists.md)
-- [Sort values in a multilevel index pivot table](/Pandas/sort-values-in-multilevel-index-pivot-tables.md)
-- [Subtotals in pivot tables](/Pandas/sub-totals-in-pivot-tables.md)
-- [Subtract previous row](/SQL/subtract-previous-row.md)
-- [Test multiple conditions (Pandas)](/Pandas/test-multiple-conditions.md)
-- [Test multiple conditions (DAX)](/DAX/test-multiple-conditions.md)
-- [Using bins or buckets](/Pandas/using_bins_or_buckets.md)
-- [Using class methods](/Python/using-class-methods.md)
-- [Using lambda with conditions](/Python/using_lambda_with_conditions.md) :star:
-- [Using lambda more generally](/Python/using_lambda.md) :star:
-- [Using loc & iloc](Python/using_loc.md)
-- [Using lambda with if, elif and else conditions](/Python/using_lambda_with_conditions.md) :star:
-- [Using plt.xkcd (fun plots!)](/Plotting/using-plt-xkcd.md)
+- [Python](/Python)
+- [SQL]
+- [DataBricks]
+- [Spark]
+- [DAX]
 
 ---
 
