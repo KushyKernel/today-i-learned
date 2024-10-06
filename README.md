@@ -6,7 +6,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 
 ## Tracking
 
-- [ ] 50 TILs
+- [x] 50 TILs
 - [ ] 100 TILs
 - [ ] 150 TILs
 - [ ] 200 TILs
