@@ -22,6 +22,7 @@ This is a collection of comprehensive but small write ups of things I learn each
 - [DataBricks](/DataBricks)
 - [Spark](/Spark)
 - [DAX](/DAX)
+- [Machine Learning](/)
 
 ---
 
