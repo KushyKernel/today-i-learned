@@ -1,12 +1,12 @@
 # :bulb: TIL - Today I Learned
 
-This is a collection of comprehensive but small write ups of things I learn each day, to help memorise and recall. If you are finding this resource, feel free to fork!
+This is a collection of comprehensive but small write-ups of things I learn daily to help memorise and recall. If you are finding this resource, feel free to fork!
 
 > :tada: There are 340 entries so far!
 
 ## Tracking
 
-- [x] 50 TILs  - 📆 28/03/2022
+- [x] 50 TILs  - 📆 27/12/2023
 - [ ] 100 TILs
 - [ ] 150 TILs
 - [ ] 200 TILs
