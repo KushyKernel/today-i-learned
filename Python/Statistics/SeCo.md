@@ -117,6 +117,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-![SeCo Plot](images\output.png)
+![SeCo Plot](images/SeCo.png)
 
 
