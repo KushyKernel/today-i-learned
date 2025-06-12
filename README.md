@@ -15,6 +15,7 @@ This is a collection of comprehensive but small write-ups of things I learn dail
 - [ ] 350 TILS
 - [ ] 400 TILS
 
+------------------------ REMINDER - BELOW NEEDS UPDATING FIX ASAP ------------------------
 ## :raised_hands: Favourites
 
 - [Python](/Python)
