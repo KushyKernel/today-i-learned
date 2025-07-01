@@ -7,7 +7,7 @@ This is a collection of comprehensive but small write-ups of things I learn dail
 ## Tracking
 
 - [x] 50 TILs  - 📆 27/12/2023
-- [ ] 100 TILs
+- [x] 100 TILs - 📆 13/06/2025
 - [ ] 150 TILs
 - [ ] 200 TILs
 - [ ] 250 TILs
